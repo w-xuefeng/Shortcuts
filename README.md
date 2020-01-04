@@ -1,15 +1,22 @@
-# Shortcuts
-> 键盘快捷键
+# Bindkey
+> 绑定键盘快捷键
 
+### Install
+
+```shell
+npm i bindkey
+```
+
+### Usage
 
 ```ts
-const shortcuts = new Shortcuts()
+import bindkey from 'bindkey';
 
 // 添加快捷键
-shortcuts.add('Ctrl+C', () => {
+bindkey.add('Ctrl+C', () => {
   // TODO
-})
+});
 
 // 移除快捷键
-shortcuts.remove('Ctrl+C')
+bindkey.remove('Ctrl+C');
 ```
