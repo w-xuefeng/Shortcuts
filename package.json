@@ -1,5 +1,5 @@
 {
-  "name": "bindkey",
+  "name": "@w-xuefeng/bindkey",
   "version": "1.0.0",
   "description": "⌨ Bind keyboard shortcut",
   "main": "dist/index.js",
