@@ -1,6 +1,6 @@
 {
   "name": "@w-xuefeng/bindkey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "⌨ Bind keyboard shortcut",
   "main": "dist/index.js",
   "scripts": {
